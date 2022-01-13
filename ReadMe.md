@@ -14,7 +14,11 @@
 <br>
 <br>
 <details>
-  <summary><kbd>Details Here <img  alt="index" height="24px" src="https://im5.ezgif.com/tmp/ezgif-5-1d8f4b7249.gif"/> </kbd></summary>
+  <summary><kbd>Details Here <img  alt="index" height="24px" src="https://im5.ezgif.com/tmp/ezgif-5-1d8f4b7249.gif"/> </kbd> <br><br>
+  <br>
+    <br>
+  <br></summary>
+   <br>
   <h2 align="center" >━◉━◉━◉━◉━◉━◉| ⚡ Fun fact |◉━◉━◉━◉━◉━◉━</h2>
   <h3 align="center">I like Sports like Volley ball 🏐, football⚽ , Cycling🚴‍♂️ & Kabaddi🏅</h3>
  <br>
@@ -23,7 +27,7 @@
   <h3 align="center">Machine Learnings | IoT </h3>
   <h4>Current Ricing ↣<h4>
   <h2 align="center"> 
-<img src="https://cdn.discordapp.com/attachments/894579977775890482/917056650047787038/unknown.png" />
+<img src="https://cdn.discordapp.com/attachments/830664223259885621/931102285285716008/Screenshot_2022-01-13_19-23-47.png" />
   <br>
   <br>
 <h2 align="center" >━◉━◉━◉━◉━◉━◉| 🤝Connect with me: |◉━◉━◉━◉━◉━◉━</h2>
