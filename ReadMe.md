@@ -14,7 +14,7 @@
 <br>
 <br>
 <details>
-  <summary><kbd>Details Here 👈</kbd></summary>
+  <summary><kbd>Details Here <img  alt="index" height="24px" src="https://im5.ezgif.com/tmp/ezgif-5-1d8f4b7249.gif"/> </kbd></summary>
   <h2 align="center" >━◉━◉━◉━◉━◉━◉| ⚡ Fun fact |◉━◉━◉━◉━◉━◉━</h2>
   <h3 align="center">I like Sports like Volley ball 🏐, football⚽ , Cycling🚴‍♂️ & Kabaddi🏅</h3>
  <br>
