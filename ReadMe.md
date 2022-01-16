@@ -14,7 +14,7 @@
 <br>
 <br>
 <details>
-  <summary><kbd>Details Here <img  alt="index" height="24px" src="https://im5.ezgif.com/tmp/ezgif-5-1d8f4b7249.gif"/> </kbd> <br><br>
+  <summary><kbd>Details Here <img  alt="index" height="24px" src="https://cdn.discordapp.com/attachments/830664223259885621/932224157280796683/ezgif-2-e74ceb70f3.gif"/> </kbd> <br><br>
   <br>
     <br>
   <br></summary>
