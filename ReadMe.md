@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/830664223259885621/932220920649646090/ezgif-5-7cdf6a22a7.png)](https://R-Rjn.io)
+[![MasterHead](https://cdn.discordapp.com/attachments/830664223259885621/932221504781975572/ezgif-5-7cdf6a22a7.gif)](https://R-Rjn.io)
 <h1 align="center">Hi 👋, I'm Ravi Ranjan</h1>
 <h3 align="center">Mechatronics based student from India👨‍🔧</h3>
 <img align="right" alt="Mechatronics" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jEGvVhp1klaaadKB__wkvCx8i28yjt5qpQ&usqp=CAU">
