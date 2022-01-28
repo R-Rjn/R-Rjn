@@ -63,7 +63,7 @@
   </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
    </a> <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" alt="NeoVim"   width="35" height="30"/>
   </a> <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </p>
-   </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://bs.cambridge.edu.in/wp-content/uploads/2020/12/electornics.png" alt="Electronics"   width="35" height="30"/>
+   </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/BuqAjzmovW5UwyRg6jXLXx357YGhlu6FffeNA0_Z0h7SkeB4_rQipSiCQMPVehdLvQ" alt="Electronics"   width="35" height="30"/>
     
   <br>
   <br>
