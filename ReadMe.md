@@ -10,7 +10,7 @@
 - 💬 Ask me about **Python, Django or Arduino/Raspberry Pi**
 
 - 📫 How to reach me **ravi20rjn1@gmail.com**
-- ✍️ Extras **I like to play Video games like Valorant🎮 & I like to plant Trees🌱**
+- ✍️ Extras **Favourite Game ↣ GOD OF WAR🎮 & I like to plant Trees🌱**
 <br>
 <br>
 <details>
