@@ -71,8 +71,8 @@
 <table align="center">
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=r-rjn&theme=blue-green&show_icons=true" alt="r-rjn" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-rjn&langs_count=8&theme=blue-green" alt="r-rjn" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=r-rjn&theme=radical&show_icons=true" alt="r-rjn" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-rjn&langs_count=40&theme=blue-green" alt="r-rjn" /></td>
   </tr>
 </table>
   <div align="center">
