@@ -9,7 +9,7 @@
 
 - 📫 How to reach me Email↣**ravi20rjn1@gmail.com**
 
-- ✍️ Extras **Favourite Game ↣ GOD OF WAR🎮 & I like to plant Trees🌱**
+- ✍️ Extras **Spending Time ↣ Reading Scriptures & Helping Others🏃‍♂️**
 <br>
 <br>
 <details>
