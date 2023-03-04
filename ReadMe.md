@@ -13,7 +13,7 @@
 <br>
 <br>
 <details>
-  <summary><kbd>Details Here</kbd> <br><br>
+  <summary><kbd>Details Here<img src = "https://cliply.co/wp-content/uploads/2021/07/392107080_HAND_CLICKING_400px.gif" width = "5%" height = "5%"></kbd> <br><br>
   <br>
     <br>
   <br></summary>
