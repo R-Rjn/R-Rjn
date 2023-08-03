@@ -3,9 +3,9 @@
 <h3 align="center">Electronics based student from India👨‍🔧</h3><br><br>
 <img align="right" alt="Setting" width="350" src="https://cdn.dribbble.com/users/626171/screenshots/2183100/settings_navigaton_800x600.gif">
 
-- 🌱 I’m currently learning **VLSI**
+- 🌱 I’m currently learning **Design Verification**
 
-- 👯 I’m looking to collaborate on **Projects related to IoT & Verilog**
+- 👯 I’m looking to collaborate on **Projects related to IoT & Hardware  Design & Verification**
 
 - 📫 How to reach me Email↣**ravi20rjn1@gmail.com**
 
@@ -23,7 +23,7 @@
  <br>
  
  <h4 align="center"> ━◉━◉━◉━◉━◉━◉| 🤩Interested In:|◉━◉━◉━◉━◉━◉━ </h4>
-  <h5 align="center">Machine Learnings | IoT | Hardware Design </h5>
+  <h5 align="center">        IoT | Hardware Design & Verification </h5>
   <h4>Current Ricing ↣<h4>
   <h2 align="center"> 
 <img src="https://cdn.discordapp.com/attachments/830664223259885621/931102285285716008/Screenshot_2022-01-13_19-23-47.png" />
@@ -54,7 +54,7 @@
   </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> <a href="https://edaplayground.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/11648029?v=4" alt="opencv" width="40" height="40"/>   
   </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a>  <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" alt="NeoVim"   width="35" height="30"/>
      </a> <a href="https://www.xilinx.com/" target="_blank" rel="noreferrer"> <img src="https://www.xilinx.com/etc.clientlibs/site/clientlibs/xilinx/site-all/resources/imgs/header/xilinx-header-logo.svg" alt="Xilinx"   width="35" height="30"/>
