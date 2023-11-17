@@ -3,7 +3,7 @@
 <h3 align="center">Electronics based student from India👨‍🔧</h3><br><br>
 <img align="right" alt="Setting" width="350" src="https://cdn.dribbble.com/users/626171/screenshots/2183100/settings_navigaton_800x600.gif">
 
-- 🌱 I’m currently learning **Design Verification**
+- 🌱 I’m currently learning **Design & Verification**
 
 - 👯 I’m looking to collaborate on **Projects related to IoT & Hardware  Design & Verification**
 
